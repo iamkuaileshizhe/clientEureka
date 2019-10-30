@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: discovery-client
+  profiles:
+    active: dev
+    include: ops
+
+
+
